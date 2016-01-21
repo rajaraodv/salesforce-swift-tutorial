@@ -14,7 +14,7 @@ You may want go over the Swift documentation.
 
 If you found this tutorial useful, consider sharing it:
 
-<a href="https://twitter.com/share" class="twitter twitter-share-button" data-size="large" data-url="http://rajaraodv.github.io/salesforce-swift-tutorial/" data-text="Salesforce Mobile SDK: Swift tutorial http://rajaraodv.github.io/salesforce-swift-tutorial/">Tweet</a>
+<a href="https://twitter.com/share" class="twitter twitter-share-button" data-size="large" data-url="http://rajaraodv.github.io/salesforce-swift-tutorial/" data-text="Salesforce Mobile SDK: Swift tutorial">Tweet</a>
 
 Also, follow me on Twitter for updates and other tutorials:
 
