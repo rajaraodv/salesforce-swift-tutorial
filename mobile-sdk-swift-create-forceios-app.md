@@ -9,14 +9,14 @@ In this step you'll use forceios tool to generate a sample Swift app that uses m
 
 1. Open Terminal
 2. Type `forceios create` and hit enter to start generating the sample app.
-3. Type `react_native` for *Enter your application type (native, native_swift, react_native, hybrid_remote, or hybrid_local):* and hit Enter. This generates a sample app for type **Swift iOS**.
-4. Type `ReactNativeSample` for *Enter your application name:* and hit Enter.
+3. Type `native_swift` for *Enter your application type (native, native_swift, react_native, hybrid_remote, or hybrid_local):* and hit Enter. This generates a sample app for type **Swift iOS**.
+4. Type `SwiftSample` for *Enter your application name:* and hit Enter.
 5. Hit Enter (leave the answer empty) for *Enter the output directory for your app (defaults to the current directory):*
-6.  Type `com.example.reactnativesample` for *Enter the package name for your app (com.mycompany.my_app):*
+6.  Type `com.example.swiftsample` for *Enter the package name for your app (com.mycompany.my_app):*
 7. Type `Example Inc` for *Enter your organization name (Acme, Inc.):*
 8. Hit Enter(leave the answer blank) for *Enter your Connected App ID (defaults to the sample app's ID):*. The sample app will use the template app's own App ID. We can change this later
 9. Hit Enter(leave the answer blank) for *Enter your Connected App Callback URI (defaults to the sample app's URI):*. This will use the template app's own Callback URI. We can change this later as well.
-10. At this point, you should have a folder called `ReactNativeSample`
+10. At this point, you should have a folder called `SwiftSample`
 
 > Note that this make take few minutes to download and install everything
 

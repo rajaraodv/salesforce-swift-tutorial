@@ -23,22 +23,10 @@ Salesforce Mobile SDK's forceios tool, React and Swift all need node.js. Install
 2. Open Terminal, and type: `node -v`, you should see current Node version.
 3. Now, type `npm -v`, you should see npm's(Node Package Manager) current version. 
 
-	> `npm` is a command line tool that is installed as part of Node.js installation and is used to install various node.js libraries.
-	
-## Step 3: Install Homebrew
-Homebrew is a popular repository for 1000s of OS X applications like Node.js, MongoDB, etc. Swift recommends installing several tools like `Watchman` and `Flow`. 
-
-1. Open <a href="http://brew.sh/ target="_blank">Homebrew</a> website.
-2. Follow instructions on the site to install it.
-	
-	```
-	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-	```
-	
-<img src="images/homebrew.png" style="height:300px" />
+	> `npm` is a command line tool that is installed as part of Node.js installation and is used to install various node.js libraries including `forceios`.
 
 
-## Step 4: Install CocoaPods
+## Step 3: Install CocoaPods
 <a href="https://cocoapods.org/" target="_blank"> CocoaPods</a> is a dependency manager for Objective-C and Swift projects. It's similar to 'npm' in the Node.js World. Salesforce Mobile SDK uses CocoaPods to install several iOS libraries.
 
 1. Open Terminal
@@ -47,20 +35,11 @@ Homebrew is a popular repository for 1000s of OS X applications like Node.js, Mo
 <img src="images/cocoapods.png" style="height:250px" />
 
 
-## Step 5: Install Other CLI Tools
-	
-1. Open Terminal 
-2. Install Watchman by running: `brew install watchman`
-3. Install Swift CLI by running: `sudo npm install swift-cli -g` 
-4. Install `forceios` tool by running: `sudo install forceios -g` 
-
-
-	> <a href="https://facebook.github.io/watchman/" target="_blank">Watchman</a> file watching is used to by Swift to monitor development changes and instantly convert them to a Native app. 
 	
 ## Additional Resources
 
-- <a href="https://facebook.github.io/swift/" target="_blank">Swift</a> 
-- <a href="https://developer.salesforce.com/trailhead/trail/mobile_sdk_intro/" target="_blank">Trailhead Mobile SDK</a> 
+- <a href="https://swift.org/" target="_blank">swift.org</a> 
+- <a href="https://developer.apple.com/swift/resources/" target="_blank">Swift 2 Resources (Guides, Videos, Sample Code, iTunes U Courses)</a> 
 - <a href="https://github.com/forcedotcom/SalesforceMobileSDK-iOS" target="_blank">SalesforceMobileSDK-iOS</a> 
 
 
