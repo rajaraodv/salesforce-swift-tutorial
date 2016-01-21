@@ -20,20 +20,20 @@ In this step you'll use forceios tool to generate a sample Swift app that uses m
 
 > Note that this make take few minutes to download and install everything
 
-<img src="images/forceios-create.png" style="height:150px" />
+<img src="images/forceios.png" style="height:150px" />
 
 ## Step 2: Install SDK dependencies
 
 In this step you'll use `Cocoapods` tool to install Salesforce Mobile SDK's dependencies.
 
-1. In the terminal, CD into `ReactNativeSample` by running: `cd ReactNativeSample`
+1. In the terminal, CD into `SwiftSample` by running: `cd SwiftSample`
 2. Install dependencies by running: `pod install`  
-3. If you do `ls -al` in the terminal, you should see `ReactNativeSample.xcworkspace` among other files. 
-4. Open the app by running: `open ReactNativeSample.xcworkspace`. This opens the app in Xcode.
+3. If you do `ls -al` in the terminal, you should see `SwiftSample.xcworkspace` among other files. 
+4. Open the app by running: `open SwiftSample.xcworkspace`. This opens the app in Xcode.
 
-	> Note: You should open `ReactNativeSample.xcworkspace` and NOT the `ReactNativeSample.xcproject` because the xcworkspace will now have the pod files. 
+	> Note: You should open `SwiftSample.xcworkspace` and NOT the `SwiftSample.xcproject` because the xcworkspace will now have the pod files. 
 	
-<img src="images/xcworkspace.png" style="height:250px" />
+<img src="images/xcworkspace.png" style="height:250px" /> 
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
