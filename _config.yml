@@ -1,0 +1,5 @@
+name: Salesforce Mobile SDK Swift Tutorial
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+gems: [jekyll-paginate]
