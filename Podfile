@@ -1,7 +1,7 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '8.0'
 
-target 'SwiftTutorial' do
+target 'SwiftSample' do
 source 'https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Specs.git' # need to be first 
 source 'https://github.com/CocoaPods/Specs.git'
 
