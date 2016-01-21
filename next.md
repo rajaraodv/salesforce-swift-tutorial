@@ -6,11 +6,11 @@ layout: default
 
 Congratulations on completing this tutorial!
 
-You may want togo over the Swift documentation. 
+You may want go over the Swift documentation. 
 
-- <a href="https://facebook.github.io/swift/docs/getting-started.html" target="_blank">Swift Docs</a>
-- <a href="https://facebook.github.io/swift/docs/style.html#content" target="_blank">Swift Styles</a>
-- <a href="https://facebook.github.io/swift/docs/native-modules-ios.html#content" target="_blank">Native Modules Guides</a>
+- <a href="https://swift.org/" target="_blank">swift.org</a> 
+- <a href="https://developer.apple.com/swift/resources/" target="_blank">Swift 2 Resources (Guides, Videos, Sample Code, iTunes U Courses)</a> 
+- <a href="https://github.com/forcedotcom/SalesforceMobileSDK-iOS" target="_blank">SalesforceMobileSDK-iOS</a> 
 
 If you found this tutorial useful, consider sharing it:
 
@@ -32,6 +32,6 @@ Thanks!
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
-<a href="mobile-sdk-swift-workflow-summary.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> Previous</a>
+<a href="mobile-sdk-swift-adding-connected-app.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> Previous</a>
 </div>
 </div>

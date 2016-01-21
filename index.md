@@ -11,9 +11,6 @@ In this tutorial, you'll learn how to get started with <a href="https://develope
 - Creating forceios App
 - Running forceios App
 - Adding Connected App
-- Updating JavaScript
-- Adding New Swift Component
-- Swift Development Workflow
 - Next Steps
 
 <div class="row" style="margin-top:40px;">
