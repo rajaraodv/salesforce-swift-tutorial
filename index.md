@@ -11,6 +11,7 @@ In this tutorial, you'll learn how to get started with <a href="https://develope
 - Creating forceios App
 - Running forceios App
 - Adding Connected App
+- Adding PIN Protect
 - Next Steps
 
 <div class="row" style="margin-top:40px;">

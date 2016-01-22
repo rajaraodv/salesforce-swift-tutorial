@@ -40,11 +40,10 @@ App ID (Connected App's "Consumer Key") and the Callback URL is stored in the na
 
 ## Step 3: Restart Everything
 1. From the Simulator's menu, click on ** Simulator** then click on **Reset Content and Settings**.
-2. Switch to the terminal where we have "Swift CLI" and stop it by pressing **Control + C**, then restart it by running **npm start**
-3. Switch to Xcode and run the app by pressing the Arrow button
-4. You should now see Simulator opening up the app and show the Salesforce login screen.
-5. Login with your developer org credentials.
-6. Notice that next OAuth screen shows **SwiftSample**. This means our app now uses the new Connected App configuration.
+2. Switch to Xcode and run the app by pressing the Arrow button
+3. You should now see Simulator opening up the app and show the Salesforce login screen.
+4. Login with your developer org credentials.
+5. Notice that next OAuth screen shows **SwiftSample**. This means our app now uses the new Connected App configuration.
 
 	<img src="images/new-oauth-screen.png" style="height:500px" />
 7.  Press "Approve" in the next OAuth screen. 
@@ -54,6 +53,6 @@ App ID (Connected App's "Consumer Key") and the Callback URL is stored in the na
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
 <a href="mobile-sdk-swift-running-forceios-app.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> Previous</a>
-<a href="next.html" class="btn btn-default pull-right">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
+<a href="mobile-sdk-swift-adding-pin-protect.html" class="btn btn-default pull-right">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
 </div>
 </div>
